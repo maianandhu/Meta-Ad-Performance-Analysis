@@ -98,4 +98,4 @@ The dashboard is designed to provide insights at a glance, with dynamic filterin
 
 -----
 
-*This project was created based on the dataset and project brief from the Data Tutorials YT Channel by Swapnjeet S.*
+*This was a guided project and was created based on the dataset and project brief from the Data Tutorials YT Channel by Swapnjeet S.*
