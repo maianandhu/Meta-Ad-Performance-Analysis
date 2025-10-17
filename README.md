@@ -1,9 +1,8 @@
 # Meta-Ad-Performance-Analysis
 A comprehensive performance dashboard for Meta (Facebook &amp; Instagram) ads, offering a full-funnel view from impressions to conversions. It helps the marketing team gain insights, optimize budgets, and identify effective platforms and audience engagement trends.
-![Meta Ad Performance Dashboard](Thumbnail.jpg)
-Of course\! Based on the documents you've provided, here is the content for a professional and detailed GitHub README file. You can copy and paste this into a `README.md` file in your repository.
 
------
+![Meta Ad Performance Dashboard](Thumbnail.jpg)
+
 
 # Meta (Facebook & Instagram) Ad Performance Analysis
 
